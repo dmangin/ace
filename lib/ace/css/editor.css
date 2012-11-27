@@ -129,6 +129,7 @@
 .ace_text-layer {
     color: black;
     font: inherit !important;
+    opacity: 0.99;
 }
 
 .ace_cjk {
